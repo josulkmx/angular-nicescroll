@@ -36,7 +36,7 @@ module.exports = function (grunt)
                 tagName: 'v%VERSION%',
                 tagMessage: 'Version %VERSION%',
                 push: false,
-                pushTo: 'git@github.com:tushariscoolster/angular-nicescroll.git',
+                pushTo: 'git@github.com:josulkmx/angular-nicescroll.git',
                 gitDescribeOptions: '--tags --always --abbrev=1 --dirty=-d',
                 globalReplace: false
             }
