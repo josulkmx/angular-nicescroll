@@ -40,6 +40,7 @@ Getting Started
 
 
     {
+        doSomethingOnKeyboard:false, //enables keyboard arrows
         cursorcolor: "#424242", // change cursor color in hex
         cursoropacitymin: 0, // change opacity when cursor is inactive (scrollabar "hidden" state), range from 1 to 0
         cursoropacitymax: 1, // change opacity when cursor is active (scrollabar "visible" state), range from 1 to 0
