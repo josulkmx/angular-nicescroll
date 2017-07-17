@@ -21,6 +21,6 @@
     "bower_components"
   ],
   "dependencies": {
-    "jquery.nicescroll": "*"
+    "jquery.nicescroll": "https://github.com/josulkmx/jquery.nicescroll.git#*"
   }
 }
